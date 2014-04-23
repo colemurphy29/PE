@@ -1,5 +1,7 @@
 import math
 
+#What is the 10,001st prime number?
+
 def getprime(num):
 	a = [x for x in xrange(1, 200000, 2) if is_prime(x)]
 	return a[num-1]

@@ -1,4 +1,6 @@
 
+#Find the largest palindrome made from the product of two 3-digit numbers.
+
 # def p():
 # 	palindrome = set()
 # 	for x in xrange(100,1000):

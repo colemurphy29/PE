@@ -1,3 +1,7 @@
+
+#What is the smallest positive number that is evenly divisible 
+#by all of the numbers from 1 to 20?
+
 #initial brute force solution - took forever (16 seconds)
 
 def divisible(n):

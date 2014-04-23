@@ -1,5 +1,7 @@
 import math
 
+#Return the largest prime factor of 600,851,475,143
+#
 #doesnt necessarily return the largest prime factor, 
 #but this worked the first time I tried it :)
 

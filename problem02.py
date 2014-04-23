@@ -1,4 +1,6 @@
 
+#sum all the even fibonacci numbers below 4,000,000
+
 def sumevenfibs(n):
 	a, b = 0, 1
 	sum = 0
